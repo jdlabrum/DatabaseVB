@@ -1,0 +1,11 @@
+c:\users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\bin\Debug\DatabaseVB.exe.config
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\DatabaseVB\DatabaseVB\bin\Debug\DatabaseProject.accdb
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\DatabaseVB\DatabaseVB\bin\Debug\DatabaseVB.exe
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\DatabaseVB\DatabaseVB\bin\Debug\DatabaseVB.pdb
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\DatabaseVB\DatabaseVB\bin\Debug\DatabaseVB.xml
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Debug\DatabaseVB.Form1.resources
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Debug\DatabaseVB.Resources.resources
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Debug\DatabaseVB.vbproj.GenerateResource.Cache
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Debug\DatabaseVB.exe
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Debug\DatabaseVB.xml
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Debug\DatabaseVB.pdb

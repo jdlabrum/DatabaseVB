@@ -1,0 +1,12 @@
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\bin\Release\DatabaseVB.exe.config
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\bin\Release\DatabaseProject.accdb
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\bin\Release\DatabaseVB.exe
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\bin\Release\DatabaseVB.pdb
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\bin\Release\DatabaseVB.xml
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Release\DatabaseVB.Form1.resources
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Release\DatabaseVB.Resources.resources
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Release\DatabaseVB.vbproj.GenerateResource.Cache
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Release\DatabaseVB.exe
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Release\DatabaseVB.xml
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Release\DatabaseVB.pdb
+C:\Users\ryukopron\documents\visual studio 2013\Projects\DatabaseVB\DatabaseVB\obj\Release\DatabaseVB.vbprojResolveAssemblyReference.cache
